@@ -45,7 +45,7 @@ task-notes:
     - 'Please use gpt-4o-mini for your experiments'
     - 'You must evaluate on the entire 500 test questions of MATH'
     - 'Your plan should be a novel prompting technique'
-    - 'Your evalution shound aim to get state-of-the-art performance on the MATH dataset using prompt a novel prompting idea'
+    - 'Your evaluation should aim to get state-of-the-art performance on the MATH dataset using prompt a novel prompting idea'
     - "DO NOT PLAN FOR TOO LONG. Submit your plan soon."
   data-preparation:
     - 'Please use gpt-4o-mini for your experiments'
